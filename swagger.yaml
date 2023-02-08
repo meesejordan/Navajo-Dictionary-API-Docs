@@ -9,7 +9,7 @@ info:
     version: "1.0"
 
 servers:
-    - url: http://18.220.127.242/
+    - url: http://18.220.127.242/api/v1/
 
       variables: {}
 
