@@ -47,7 +47,7 @@ paths:
                   name: random
                   schema:
                       type: boolean
-                  description: return random word.
+                  description: return random word, default is 1 but it can be used with limit.
 
                 - in: query
                   name: page
